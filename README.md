@@ -1,7 +1,7 @@
 # Instax
 ## Author: github.com/scone-tech
 ## IG: instagram.com/scone_tech
-### Don't copy this code without give me the credits, 
+### 
 Instax is an tool to perform multi-threaded brute force attack against Instagram, this script can bypass login limiting and it can test infinite number of passwords with a rate of +400 passwords/min using 20 threads.
 
 ## Legal disclaimer:
